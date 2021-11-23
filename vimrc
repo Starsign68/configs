@@ -75,7 +75,7 @@ au ColorScheme,FocusGained * hi User8          guifg=#ECEFF4 guibg=#037499 gui=b
 aug END                                        " {TRIGGERS_END}}}} {{{{THEME_START} 
 syntax on 
 set termguicolors 
-colorscheme tokyonight 
+colorscheme onedark 
 set background=dark                             " {THEME_END}}}}
 iabbrev ddate <C-R>=strftime("[%Y\/%m\/%d]")<CR>
 iabbrev {; <C-o>i{<CR>};<Esc>O
